@@ -1,4 +1,4 @@
 # Court Counter
 
-This android app keeps track of basketball score of two teams
+Android app keeps track of basketball score of two teams
 
